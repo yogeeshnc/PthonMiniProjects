@@ -46,7 +46,7 @@ Installation
 
 Clone the repository
 
-bashgit clone https://github.com/your-username/student-management-system.git
+bashgit clone https://github.com/yogeeshnc/student-management-system.git
 
 Navigate to the project directory
 
@@ -101,5 +101,5 @@ ConceptDescriptionClass & ObjectStudent class is defined with attributes and met
 
 🙋 Author
 Your Name
-📧 your.email@example.com
-🔗 GitHub Profile
+📧 yogeeshnc832@gmail.com
+🔗https://github.com/yogeeshnc
